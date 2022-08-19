@@ -1,5 +1,5 @@
 
-Americanas Web Crawler
+Web Crawler
 =============
 Collect Products Information
 
